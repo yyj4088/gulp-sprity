@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.2",
+    "gulp.spritesmith": "^6.3.0",
+    "js-yaml": "^3.8.2",
+    "lwip": "0.0.9",
+    "sprity-sass": "^1.0.4"
+  }
+}
